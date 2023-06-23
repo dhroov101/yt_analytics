@@ -10,6 +10,7 @@ To run the Jupyter Notebook and perform the data analytics on your YouTube data,
 - BeautifulSoup
 - Seaborn
 - Matplotlib
+- nltk
 
 ## Getting Started
 
@@ -46,6 +47,7 @@ To run the Jupyter Notebook and perform the data analytics on your YouTube data,
 - [Seaborn](https://seaborn.pydata.org/): A data visualization library based on Matplotlib that provides a high-level interface for drawing informative and attractive statistical graphics.
 
 - [Matplotlib](https://matplotlib.org/): A plotting library for Python that produces publication-quality figures.
+- [nltk](https://nltk.org/): a natural language processing toolkit
 
 ## License
 
